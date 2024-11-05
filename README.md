@@ -1,4 +1,4 @@
-git # SHANE_test-repository @ Bob
+git # SHANE_test-repository @ Bob @ Alice
 CHO PUAD KHEE Mak Mak
 HGEEEEEEE
 .
